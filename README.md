@@ -19,8 +19,6 @@ Driven by the intersection of biomedical computing, AI integration, and systems-
 
 ### **Selected Technical Work**
 
-#### **Academic & Research Projects**
-
 **PhysioNet ECG Rhythm Classification:** Designed a 1D Residual CNN pipeline for cardiac rhythm classification, utilizing 5-fold stratified cross-validation for high-fidelity reproducibility.
 
 **ADAPT (Annotator Disagreement Assessment):** Built a deep learning regression pipeline using ResNet backbones and Grad-CAM explainability to predict segmentation agreement in medical imaging.
